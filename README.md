@@ -1,2 +1,2 @@
 # BotTesting
-Försöker hitta href-länkar från önskad URL
+Någonting jag skapade för att försöka hitta `<a href>`-länkar från websidor.
